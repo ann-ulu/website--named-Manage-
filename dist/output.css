@@ -631,6 +631,10 @@ video {
   margin-right: 0.5rem;
 }
 
+.mt-0 {
+  margin-top: 0px;
+}
+
 .mt-14 {
   margin-top: 3.5rem;
 }
@@ -1004,6 +1008,10 @@ body{
 
   .md\:ml-20 {
     margin-left: 5rem;
+  }
+
+  .md\:mt-0 {
+    margin-top: 0px;
   }
 
   .md\:block {
